@@ -1,6 +1,4 @@
 import './Footer.css';
-import { RiWhatsappFill, RiInstagramFill, RiFacebookFill, RiTwitterFill, RiLinkedinBoxFill, RiGithubFill } from 'react-icons/ri';
-
 export default function Footer() {
     const socials = [
         {
